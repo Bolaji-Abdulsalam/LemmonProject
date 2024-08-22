@@ -166,14 +166,15 @@ button:active {
 
 .menu-items {
   width: 320px;
-  background: #a9c8be;
+  background: #c4f3e4;
   border-radius: 8px;
   box-shadow: 5px 5px 5px gray;
   transition: 0.5s;
+  margin-top: 20px;
 }
 
 .menu-items:hover {
-  background-color: #709c8e;
+  background-color: #7be6c4;
 }
 
 .menu-container img {

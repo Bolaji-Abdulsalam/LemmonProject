@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from 'react-router-dom';
+// import {  Link } from 'react-router-dom';
 import manfood from '../images/manfood.jpg'
 
 const Header = () => {
@@ -14,6 +14,7 @@ const Header = () => {
                          traditional recipes served swith a modern twist</p>
                     
                     {/* <Link to="/footer"><button aria-label="On Click">Reserve Table</button></Link> */}
+                    {/* <Link to="/footer"><button>Reserve</button></Link> */}
                     <button>Reserve Table</button>
                 </div>
 
